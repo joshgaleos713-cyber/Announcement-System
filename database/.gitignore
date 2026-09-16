@@ -1,0 +1,2 @@
+# Allow database.sqlite to be committed for transferring to other PCs
+# *.sqlite*
